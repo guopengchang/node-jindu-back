@@ -1,0 +1,319 @@
+{"level":"info","message":"Connected to the db...","timestamp":"2019-11-18T10:34:57.103Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2019-11-18T10:34:57.733Z"}
+{"level":"info","message":"/api/user/info?token=1574071192696 undefined undefined OPTIONS","timestamp":"2019-11-18T10:35:04.719Z"}
+{"level":"info","message":"/api/user/info?token=1574071192696 1574071192696 undefined GET","timestamp":"2019-11-18T10:35:04.728Z"}
+{"level":"info","message":"未登录或已超时","timestamp":"2019-11-18T10:35:04.728Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2019-11-18T10:35:05.681Z"}
+{"level":"info","message":"/api/user/login 1574071192696 undefined POST","timestamp":"2019-11-18T10:35:05.694Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2019-11-18T10:35:05.695Z"}
+{"level":"info","message":"/api/user/info?token=1574073305816 undefined undefined OPTIONS","timestamp":"2019-11-18T10:35:05.827Z"}
+{"level":"info","message":"/api/user/info?token=1574073305816 1574073305816 { id: 1, account: 'admin', token: 1574073305816 } GET","timestamp":"2019-11-18T10:35:05.835Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-18T10:35:05.835Z"}
+{"level":"info","message":"/api/contract/list?pageNo=1&pageSize=10&name= undefined undefined OPTIONS","timestamp":"2019-11-18T10:35:08.206Z"}
+{"level":"info","message":"/api/contract/list?pageNo=1&pageSize=10&name= 1574073305816 { id: 1, account: 'admin', token: 1574073305816 } GET","timestamp":"2019-11-18T10:35:08.212Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-18T10:35:08.213Z"}
+{"level":"info","message":"/api/approve/first/list?pageNo=1&pageSize=10&name= undefined undefined OPTIONS","timestamp":"2019-11-18T10:35:10.723Z"}
+{"level":"info","message":"/api/approve/first/list?pageNo=1&pageSize=10&name= 1574073305816 { id: 1, account: 'admin', token: 1574073305816 } GET","timestamp":"2019-11-18T10:35:10.729Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-18T10:35:10.730Z"}
+{"level":"info","message":"/api/approve/end/list?pageNo=1&pageSize=10&name= undefined undefined OPTIONS","timestamp":"2019-11-18T10:35:11.961Z"}
+{"level":"info","message":"/api/approve/end/list?pageNo=1&pageSize=10&name= 1574073305816 { id: 1, account: 'admin', token: 1574073305816 } GET","timestamp":"2019-11-18T10:35:11.965Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-18T10:35:11.966Z"}
+{"level":"info","message":"/api/loan/list?pageNo=1&pageSize=10&name= undefined undefined OPTIONS","timestamp":"2019-11-18T10:35:12.694Z"}
+{"level":"info","message":"/api/loan/list?pageNo=1&pageSize=10&name= 1574073305816 { id: 1, account: 'admin', token: 1574073305816 } GET","timestamp":"2019-11-18T10:35:12.700Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-18T10:35:12.700Z"}
+{"level":"info","message":"/api/user/list undefined undefined OPTIONS","timestamp":"2019-11-18T10:35:17.375Z"}
+{"level":"info","message":"/api/user/list 1574073305816 { id: 1, account: 'admin', token: 1574073305816 } GET","timestamp":"2019-11-18T10:35:17.379Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-18T10:35:17.380Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2019-11-21T10:08:02.015Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2019-11-21T10:08:02.280Z"}
+{"level":"info","message":"/api/user/info?token=1573804822582 undefined undefined OPTIONS","timestamp":"2019-11-21T10:09:12.975Z"}
+{"level":"info","message":"/api/user/info?token=1573804822582 1573804822582 undefined GET","timestamp":"2019-11-21T10:09:12.985Z"}
+{"level":"info","message":"未登录或已超时","timestamp":"2019-11-21T10:09:12.986Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2019-11-21T10:09:13.998Z"}
+{"level":"info","message":"/api/user/login 1573804822582 undefined POST","timestamp":"2019-11-21T10:09:14.015Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2019-11-21T10:09:14.015Z"}
+{"level":"info","message":"/api/user/info?token=1574330954335 undefined undefined OPTIONS","timestamp":"2019-11-21T10:09:14.344Z"}
+{"level":"info","message":"/api/user/info?token=1574330954335 1574330954335 { id: 1, account: 'admin', token: 1574330954335 } GET","timestamp":"2019-11-21T10:09:14.350Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-21T10:09:14.350Z"}
+{"level":"info","message":"/api/contract/list?pageNo=1&pageSize=10&name= undefined undefined OPTIONS","timestamp":"2019-11-21T10:09:17.206Z"}
+{"level":"info","message":"/api/contract/list?pageNo=1&pageSize=10&name= 1574330954335 { id: 1, account: 'admin', token: 1574330954335 } GET","timestamp":"2019-11-21T10:09:17.209Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-21T10:09:17.210Z"}
+{"level":"info","message":"/api/approve/first/list?pageNo=1&pageSize=10&name= undefined undefined OPTIONS","timestamp":"2019-11-21T10:09:20.712Z"}
+{"level":"info","message":"/api/approve/first/list?pageNo=1&pageSize=10&name= 1574330954335 { id: 1, account: 'admin', token: 1574330954335 } GET","timestamp":"2019-11-21T10:09:20.717Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-21T10:09:20.717Z"}
+{"level":"info","message":"/api/approve/end/list?pageNo=1&pageSize=10&name= undefined undefined OPTIONS","timestamp":"2019-11-21T10:09:21.961Z"}
+{"level":"info","message":"/api/approve/end/list?pageNo=1&pageSize=10&name= 1574330954335 { id: 1, account: 'admin', token: 1574330954335 } GET","timestamp":"2019-11-21T10:09:21.965Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-21T10:09:21.966Z"}
+{"level":"info","message":"/api/loan/list?pageNo=1&pageSize=10&name= undefined undefined OPTIONS","timestamp":"2019-11-21T10:09:23.518Z"}
+{"level":"info","message":"/api/loan/list?pageNo=1&pageSize=10&name= 1574330954335 { id: 1, account: 'admin', token: 1574330954335 } GET","timestamp":"2019-11-21T10:09:23.521Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-21T10:09:23.521Z"}
+{"level":"info","message":"/api/user/list undefined undefined OPTIONS","timestamp":"2019-11-21T10:09:29.291Z"}
+{"level":"info","message":"/api/user/list 1574330954335 { id: 1, account: 'admin', token: 1574330954335 } GET","timestamp":"2019-11-21T10:09:29.295Z"}
+{"level":"info","message":"enter...","timestamp":"2019-11-21T10:09:29.295Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2019-11-21T11:43:11.265Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2019-11-21T11:43:12.033Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-22T11:15:44.000Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-22T11:15:44.876Z"}
+{"level":"info","message":"/api/user/info?token=1584850627804 undefined undefined OPTIONS","timestamp":"2020-03-22T11:20:22.479Z"}
+{"level":"info","message":"/api/user/info?token=1584850627804 1584850627804 undefined GET","timestamp":"2020-03-22T11:20:22.491Z"}
+{"level":"info","message":"未登录或已超时","timestamp":"2020-03-22T11:20:22.493Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2020-03-22T11:20:34.820Z"}
+{"level":"info","message":"/api/user/login 1584850627804 undefined POST","timestamp":"2020-03-22T11:20:34.864Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:20:34.866Z"}
+{"level":"info","message":"/api/user/info?token=1584876035101 undefined undefined OPTIONS","timestamp":"2020-03-22T11:20:35.121Z"}
+{"level":"info","message":"/api/user/info?token=1584876035101 1584876035101 { id: 1, account: 'admin', token: 1584876035101 } GET","timestamp":"2020-03-22T11:20:35.133Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:20:35.135Z"}
+{"level":"info","message":"/api/user/info?token=1584876035101 undefined undefined OPTIONS","timestamp":"2020-03-22T11:22:42.794Z"}
+{"level":"info","message":"/api/user/info?token=1584876035101 1584876035101 { id: 1, account: 'admin', token: 1584876035101 } GET","timestamp":"2020-03-22T11:22:42.802Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:22:42.804Z"}
+{"level":"info","message":"/api/user/info?token=1584876035101 undefined undefined OPTIONS","timestamp":"2020-03-22T11:22:59.402Z"}
+{"level":"info","message":"/api/user/info?token=1584876035101 1584876035101 { id: 1, account: 'admin', token: 1584876035101 } GET","timestamp":"2020-03-22T11:22:59.409Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:22:59.410Z"}
+{"level":"info","message":"/api/user/info?token=1584876035101 undefined undefined OPTIONS","timestamp":"2020-03-22T11:23:06.376Z"}
+{"level":"info","message":"/api/user/info?token=1584876035101 1584876035101 { id: 1, account: 'admin', token: 1584876035101 } GET","timestamp":"2020-03-22T11:23:06.383Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:23:06.384Z"}
+{"level":"info","message":"/api/user/info?token=1584876035101 1584876035101 { id: 1, account: 'admin', token: 1584876035101 } GET","timestamp":"2020-03-22T11:23:09.343Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:23:09.344Z"}
+{"level":"info","message":"/api/user/logout undefined undefined OPTIONS","timestamp":"2020-03-22T11:23:12.681Z"}
+{"level":"info","message":"/api/user/logout 1584876035101 { id: 1, account: 'admin', token: 1584876035101 } POST","timestamp":"2020-03-22T11:23:12.687Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:23:12.688Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2020-03-22T11:23:17.438Z"}
+{"level":"info","message":"/api/user/login 1584876035101 null POST","timestamp":"2020-03-22T11:23:17.447Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:23:17.448Z"}
+{"level":"info","message":"/api/user/info?token=1584876197456 undefined undefined OPTIONS","timestamp":"2020-03-22T11:23:17.471Z"}
+{"level":"info","message":"/api/user/info?token=1584876197456 1584876197456 { id: 1, account: 'admin', token: 1584876197456 } GET","timestamp":"2020-03-22T11:23:17.479Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:23:17.480Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2020-03-22T11:26:10.290Z"}
+{"level":"info","message":"/api/user/login 1584876346445 { id: 1, account: 'admin', token: 1584876197456 } POST","timestamp":"2020-03-22T11:26:10.297Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:26:10.298Z"}
+{"level":"info","message":"/api/user/info?token=1584876370314 undefined undefined OPTIONS","timestamp":"2020-03-22T11:26:10.333Z"}
+{"level":"info","message":"/api/user/info?token=1584876370314 1584876370314 { id: 1, account: 'admin', token: 1584876370314 } GET","timestamp":"2020-03-22T11:26:10.342Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:26:10.344Z"}
+{"level":"info","message":"/api/user/logout undefined undefined OPTIONS","timestamp":"2020-03-22T11:26:16.396Z"}
+{"level":"info","message":"/api/user/logout 1584876370314 { id: 1, account: 'admin', token: 1584876370314 } POST","timestamp":"2020-03-22T11:26:16.405Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:26:16.407Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2020-03-22T11:29:02.380Z"}
+{"level":"info","message":"/api/user/login 1584876515766 undefined POST","timestamp":"2020-03-22T11:29:02.389Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:29:02.391Z"}
+{"level":"info","message":"/api/user/info?token=1584876542406 undefined undefined OPTIONS","timestamp":"2020-03-22T11:29:02.426Z"}
+{"level":"info","message":"/api/user/info?token=1584876542406 1584876542406 undefined GET","timestamp":"2020-03-22T11:29:02.433Z"}
+{"level":"info","message":"未登录或已超时","timestamp":"2020-03-22T11:29:02.435Z"}
+{"level":"info","message":"/api/user/login 1584876542406 undefined POST","timestamp":"2020-03-22T11:29:07.147Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:29:07.148Z"}
+{"level":"info","message":"/api/user/info?token=1584876547158 undefined undefined OPTIONS","timestamp":"2020-03-22T11:29:07.179Z"}
+{"level":"info","message":"/api/user/info?token=1584876547158 1584876547158 undefined GET","timestamp":"2020-03-22T11:29:07.185Z"}
+{"level":"info","message":"未登录或已超时","timestamp":"2020-03-22T11:29:07.187Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2020-03-22T11:29:40.856Z"}
+{"level":"info","message":"/api/user/login 1584876547158 undefined POST","timestamp":"2020-03-22T11:29:40.863Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:29:40.865Z"}
+{"level":"info","message":"/api/user/info?token=1584876580882 undefined undefined OPTIONS","timestamp":"2020-03-22T11:29:40.900Z"}
+{"level":"info","message":"/api/user/info?token=1584876580882 1584876580882 undefined GET","timestamp":"2020-03-22T11:29:40.905Z"}
+{"level":"info","message":"未登录或已超时","timestamp":"2020-03-22T11:29:40.906Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-22T11:32:45.172Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-22T11:32:45.511Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2020-03-22T11:32:55.516Z"}
+{"level":"info","message":"/api/user/login 1584876580882 undefined POST","timestamp":"2020-03-22T11:32:55.579Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:32:55.581Z"}
+{"level":"info","message":"/api/user/info?token=1584876775826 undefined undefined OPTIONS","timestamp":"2020-03-22T11:32:55.849Z"}
+{"level":"info","message":"/api/user/info?token=1584876775826 1584876775826 undefined GET","timestamp":"2020-03-22T11:32:55.858Z"}
+{"level":"info","message":"未登录或已超时","timestamp":"2020-03-22T11:32:55.859Z"}
+{"level":"info","message":"/api/user/login 1584876775826 undefined POST","timestamp":"2020-03-22T11:32:57.790Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:32:57.791Z"}
+{"level":"info","message":"/api/user/info?token=1584876777801 undefined undefined OPTIONS","timestamp":"2020-03-22T11:32:57.816Z"}
+{"level":"info","message":"/api/user/info?token=1584876777801 1584876777801 undefined GET","timestamp":"2020-03-22T11:32:57.824Z"}
+{"level":"info","message":"未登录或已超时","timestamp":"2020-03-22T11:32:57.825Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2020-03-22T11:34:17.515Z"}
+{"level":"info","message":"/api/user/login 1584876389194 undefined POST","timestamp":"2020-03-22T11:34:17.528Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:34:17.529Z"}
+{"level":"info","message":"/api/user/info?token=1584876857550 undefined undefined OPTIONS","timestamp":"2020-03-22T11:34:17.572Z"}
+{"level":"info","message":"/api/user/info?token=1584876857550 1584876857550 { id: 1, account: 'admin', token: 1584876857550 } GET","timestamp":"2020-03-22T11:34:17.584Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:34:17.585Z"}
+{"level":"info","message":"/api/user/logout undefined undefined OPTIONS","timestamp":"2020-03-22T11:34:22.250Z"}
+{"level":"info","message":"/api/user/logout 1584876857550 { id: 1, account: 'admin', token: 1584876857550 } POST","timestamp":"2020-03-22T11:34:22.257Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:34:22.258Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-22T11:34:45.028Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-22T11:34:45.369Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2020-03-22T11:34:53.487Z"}
+{"level":"info","message":"/api/user/login 1584876857550 undefined POST","timestamp":"2020-03-22T11:34:53.565Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:34:53.566Z"}
+{"level":"info","message":"/api/user/info?token=1584876893768 undefined undefined OPTIONS","timestamp":"2020-03-22T11:34:53.791Z"}
+{"level":"info","message":"/api/user/info?token=1584876893768 1584876893768 { id: 1, account: 'admin', token: 1584876893768 } GET","timestamp":"2020-03-22T11:34:53.804Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:34:53.806Z"}
+{"level":"info","message":"/api/user/logout undefined undefined OPTIONS","timestamp":"2020-03-22T11:34:59.492Z"}
+{"level":"info","message":"/api/user/logout 1584876893768 { id: 1, account: 'admin', token: 1584876893768 } POST","timestamp":"2020-03-22T11:34:59.502Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:34:59.505Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2020-03-22T11:35:09.049Z"}
+{"level":"info","message":"/api/user/login 1584876893768 null POST","timestamp":"2020-03-22T11:35:09.059Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:35:09.062Z"}
+{"level":"info","message":"/api/user/info?token=1584876909084 undefined undefined OPTIONS","timestamp":"2020-03-22T11:35:09.100Z"}
+{"level":"info","message":"/api/user/info?token=1584876909084 1584876909084 { id: 1, account: 'admin', token: 1584876909084 } GET","timestamp":"2020-03-22T11:35:09.110Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:35:09.112Z"}
+{"level":"info","message":"/api/user/logout undefined undefined OPTIONS","timestamp":"2020-03-22T11:35:11.494Z"}
+{"level":"info","message":"/api/user/logout 1584876909084 { id: 1, account: 'admin', token: 1584876909084 } POST","timestamp":"2020-03-22T11:35:11.502Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:35:11.504Z"}
+{"level":"info","message":"/api/user/login undefined undefined OPTIONS","timestamp":"2020-03-22T11:42:34.580Z"}
+{"level":"info","message":"/api/user/login 1584876909084 null POST","timestamp":"2020-03-22T11:42:34.589Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-22T11:42:34.591Z"}
+{"level":"info","message":"/api/user/info?token=1584877354607 undefined undefined OPTIONS","timestamp":"2020-03-22T11:42:34.628Z"}
+{"level":"info","message":"/api/user/info?token=1584877354607 1584877354607 { id: 1, account: 'admin', token: 1584877354607 } GET","timestamp":"2020-03-22T11:42:34.636Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:42:34.637Z"}
+{"level":"info","message":"/api/user/info?token=1584877354607 undefined undefined OPTIONS","timestamp":"2020-03-22T11:43:25.040Z"}
+{"level":"info","message":"/api/user/info?token=1584877354607 1584877354607 { id: 1, account: 'admin', token: 1584877354607 } GET","timestamp":"2020-03-22T11:43:25.048Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:43:25.049Z"}
+{"level":"info","message":"/api/user/logout undefined undefined OPTIONS","timestamp":"2020-03-22T11:43:51.613Z"}
+{"level":"info","message":"/api/user/logout 1584877354607 { id: 1, account: 'admin', token: 1584877354607 } POST","timestamp":"2020-03-22T11:43:51.623Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-22T11:43:51.625Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-22T11:53:25.432Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-22T11:53:25.750Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:14:03.382Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:14:03.757Z"}
+{"level":"info","message":"/api/user/login undefined undefined POST","timestamp":"2020-03-27T12:14:50.293Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-27T12:14:50.295Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:15:23.600Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:15:23.903Z"}
+{"level":"info","message":"/api/user/login undefined undefined POST","timestamp":"2020-03-27T12:15:32.618Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-27T12:15:32.619Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:17:48.442Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:17:48.739Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:18:29.613Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:18:29.932Z"}
+{"level":"info","message":"/api/user/login undefined undefined POST","timestamp":"2020-03-27T12:18:34.842Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-27T12:18:34.844Z"}
+{"level":"info","message":"/api/user/get \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTE1MTQsImV4cCI6MTU4NTM5NzkxNH0.sEgwYG-SxElf3UQw6qjdIJPBGr2Ktt5xCuHjusgm7mM\" undefined POST","timestamp":"2020-03-27T12:20:06.897Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T12:20:06.898Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:20:06.901Z"}
+{"level":"info","message":"/api/user/get \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTE1MTQsImV4cCI6MTU4NTM5NzkxNH0.sEgwYG-SxElf3UQw6qjdIJPBGr2Ktt5xCuHjusgm7mM\" undefined POST","timestamp":"2020-03-27T12:21:20.735Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T12:21:20.736Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:21:20.737Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:21:53.395Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:21:53.718Z"}
+{"level":"info","message":"/api/user/login undefined undefined POST","timestamp":"2020-03-27T12:21:55.577Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-27T12:21:55.579Z"}
+{"level":"info","message":"/api/user/get \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTE3MTUsImV4cCI6MTU4NTM5ODExNX0.C8rnlNnyp6f7AI7fPDppVjIolLlG8v88ukL5VHExm4o\" undefined POST","timestamp":"2020-03-27T12:22:07.471Z"}
+{"level":"info","message":"enter... \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTE3MTUsImV4cCI6MTU4NTM5ODExNX0.C8rnlNnyp6f7AI7fPDppVjIolLlG8v88ukL5VHExm4o\"","timestamp":"2020-03-27T12:22:07.471Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:22:07.473Z"}
+{"level":"info","message":"/api/user/get \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTE3MTUsImV4cCI6MTU4NTM5ODExNX0.C8rnlNnyp6f7AI7fPDppVjIolLlG8v88ukL5VHExm4o\" undefined POST","timestamp":"2020-03-27T12:23:03.133Z"}
+{"level":"info","message":"enter... \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTE3MTUsImV4cCI6MTU4NTM5ODExNX0.C8rnlNnyp6f7AI7fPDppVjIolLlG8v88ukL5VHExm4o\"","timestamp":"2020-03-27T12:23:03.134Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:23:03.135Z"}
+{"level":"info","message":"/api/user/login undefined undefined POST","timestamp":"2020-03-27T12:26:13.492Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-27T12:26:13.493Z"}
+{"level":"info","message":"/api/user/get \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTE5NzMsImV4cCI6MTU4NTM5ODM3M30.lClizFlM6E5_4D2shJOikSpvg7BrfnVfTVzHW8yWiWc\" undefined POST","timestamp":"2020-03-27T12:26:24.804Z"}
+{"level":"info","message":"enter... \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTE5NzMsImV4cCI6MTU4NTM5ODM3M30.lClizFlM6E5_4D2shJOikSpvg7BrfnVfTVzHW8yWiWc\"","timestamp":"2020-03-27T12:26:24.805Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:26:24.806Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:27:28.285Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:27:28.628Z"}
+{"level":"info","message":"/api/user/login undefined undefined POST","timestamp":"2020-03-27T12:27:32.998Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-27T12:27:33.000Z"}
+{"level":"info","message":"/api/user/get \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTIwNTMsImV4cCI6MTU4NTM5ODQ1M30.325HxiSWDh6CBbtQt-fJq13rQdnmKh88WemPHSRR_B0\" undefined POST","timestamp":"2020-03-27T12:27:44.751Z"}
+{"level":"info","message":"enter... \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTIwNTMsImV4cCI6MTU4NTM5ODQ1M30.325HxiSWDh6CBbtQt-fJq13rQdnmKh88WemPHSRR_B0\"","timestamp":"2020-03-27T12:27:44.752Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:27:44.778Z"}
+{"level":"info","message":"/api/user/get \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTIwNTMsImV4cCI6MTU4NTM5ODQ1M30.325HxiSWDh6CBbtQt-fJq13rQdnmKh88WemPHSRR_B0\" undefined POST","timestamp":"2020-03-27T12:28:21.863Z"}
+{"level":"info","message":"enter... \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTIwNTMsImV4cCI6MTU4NTM5ODQ1M30.325HxiSWDh6CBbtQt-fJq13rQdnmKh88WemPHSRR_B0\"","timestamp":"2020-03-27T12:28:21.864Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:28:21.879Z"}
+{"level":"info","message":"/api/user/get \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTIwNTMsImV4cCI6MTU4NTM5ODQ1M30.325HxiSWDh6CBbtQt-fJq13rQdnmKh88WemPHSRR_B0\" undefined POST","timestamp":"2020-03-27T12:35:06.929Z"}
+{"level":"info","message":"enter... \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTIwNTMsImV4cCI6MTU4NTM5ODQ1M30.325HxiSWDh6CBbtQt-fJq13rQdnmKh88WemPHSRR_B0\"","timestamp":"2020-03-27T12:35:06.930Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:35:06.944Z"}
+{"level":"info","message":"/api/user/get \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTIwNTMsImV4cCI6MTU4NTM5ODQ1M30.325HxiSWDh6CBbtQt-fJq13rQdnmKh88WemPHSRR_B0\" undefined POST","timestamp":"2020-03-27T12:35:14.598Z"}
+{"level":"info","message":"enter... \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTIwNTMsImV4cCI6MTU4NTM5ODQ1M30.325HxiSWDh6CBbtQt-fJq13rQdnmKh88WemPHSRR_B0\"","timestamp":"2020-03-27T12:35:14.599Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:35:14.614Z"}
+{"level":"info","message":"/api/user/get \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTIwNTMsImV4cCI6MTU4NTM5ODQ1M30.325HxiSWDh6CBbtQt-fJq13rQdnmKh88WemPHSRR_B0\" undefined POST","timestamp":"2020-03-27T12:35:58.138Z"}
+{"level":"info","message":"enter... \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTIwNTMsImV4cCI6MTU4NTM5ODQ1M30.325HxiSWDh6CBbtQt-fJq13rQdnmKh88WemPHSRR_B0\"","timestamp":"2020-03-27T12:35:58.140Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:35:58.155Z"}
+{"level":"info","message":"/api/user/login undefined undefined POST","timestamp":"2020-03-27T12:36:00.790Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-27T12:36:00.791Z"}
+{"level":"info","message":"/api/user/get \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTI1NjAsImV4cCI6MTU4NTM5ODk2MH0.wYgH3J7vWK5aOqkjpEbEW7NuQfICjOieTqsBS7iy7Ds\" undefined POST","timestamp":"2020-03-27T12:36:18.381Z"}
+{"level":"info","message":"enter... \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTI1NjAsImV4cCI6MTU4NTM5ODk2MH0.wYgH3J7vWK5aOqkjpEbEW7NuQfICjOieTqsBS7iy7Ds\"","timestamp":"2020-03-27T12:36:18.382Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:36:18.397Z"}
+{"level":"info","message":"/api/user/get Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQmluTWFpbmciLCJkYXRhIjoiPT09PT09PT09PT09PSIsImlhdCI6MTUwMTgxNDE4OCwiZXhwIjoxNTAxODE0MjQ4fQ.GoxGlc6E02W5VvqDNawaOrj3MPO-4UYeFdngKR4bVTE undefined POST","timestamp":"2020-03-27T12:38:08.648Z"}
+{"level":"info","message":"enter... Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQmluTWFpbmciLCJkYXRhIjoiPT09PT09PT09PT09PSIsImlhdCI6MTUwMTgxNDE4OCwiZXhwIjoxNTAxODE0MjQ4fQ.GoxGlc6E02W5VvqDNawaOrj3MPO-4UYeFdngKR4bVTE","timestamp":"2020-03-27T12:38:08.649Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T12:38:08.664Z"}
+{"level":"info","message":"/api/user/get eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTI1NjAsImV4cCI6MTU4NTM5ODk2MH0.wYgH3J7vWK5aOqkjpEbEW7NuQfICjOieTqsBS7iy7Ds undefined POST","timestamp":"2020-03-27T12:38:25.041Z"}
+{"level":"info","message":"enter... eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTI1NjAsImV4cCI6MTU4NTM5ODk2MH0.wYgH3J7vWK5aOqkjpEbEW7NuQfICjOieTqsBS7iy7Ds","timestamp":"2020-03-27T12:38:25.042Z"}
+{"level":"info","message":"/api/user/get eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTI1NjAsImV4cCI6MTU4NTM5ODk2MH0.wYgH3J7vWK5aOqkjpEbEW7NuQfICjOieTqsBS7iy7Ds undefined GET","timestamp":"2020-03-27T12:38:33.443Z"}
+{"level":"info","message":"enter... eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTI1NjAsImV4cCI6MTU4NTM5ODk2MH0.wYgH3J7vWK5aOqkjpEbEW7NuQfICjOieTqsBS7iy7Ds","timestamp":"2020-03-27T12:38:33.444Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:39:25.947Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:39:26.288Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:39:41.798Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:39:42.100Z"}
+{"level":"info","message":"/api/user/login undefined undefined POST","timestamp":"2020-03-27T12:39:44.165Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-27T12:39:44.167Z"}
+{"level":"info","message":"/api/user/get eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTI3ODQsImV4cCI6MTU4NTM5OTE4NH0.mdtTAPIYAQ5M3ptOrPEWANwQ7IPvBSSn0uXcd3m4sB8 undefined GET","timestamp":"2020-03-27T12:40:08.631Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T12:40:08.632Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:41:28.250Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:41:28.560Z"}
+{"level":"info","message":"/api/user/login undefined undefined POST","timestamp":"2020-03-27T12:41:32.353Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-27T12:41:32.354Z"}
+{"level":"info","message":"/api/user/info eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTI3ODQsImV4cCI6MTU4NTM5OTE4NH0.mdtTAPIYAQ5M3ptOrPEWANwQ7IPvBSSn0uXcd3m4sB8 undefined GET","timestamp":"2020-03-27T12:41:38.875Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T12:41:38.876Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:47:31.304Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:47:31.647Z"}
+{"level":"info","message":"/api/user/login undefined undefined POST","timestamp":"2020-03-27T12:47:35.039Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-27T12:47:35.040Z"}
+{"level":"info","message":"/api/user/info eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTI3ODQsImV4cCI6MTU4NTM5OTE4NH0.mdtTAPIYAQ5M3ptOrPEWANwQ7IPvBSSn0uXcd3m4sB8 undefined GET","timestamp":"2020-03-27T12:47:38.888Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T12:47:38.889Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:48:02.584Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:48:02.912Z"}
+{"level":"info","message":"/api/user/info eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTI3ODQsImV4cCI6MTU4NTM5OTE4NH0.mdtTAPIYAQ5M3ptOrPEWANwQ7IPvBSSn0uXcd3m4sB8 undefined GET","timestamp":"2020-03-27T12:48:05.545Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T12:48:05.546Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T12:48:42.938Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T12:48:43.274Z"}
+{"level":"info","message":"/api/user/info eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTI3ODQsImV4cCI6MTU4NTM5OTE4NH0.mdtTAPIYAQ5M3ptOrPEWANwQ7IPvBSSn0uXcd3m4sB8 undefined GET","timestamp":"2020-03-27T12:48:44.488Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T12:48:44.489Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-03-27T13:04:08.456Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-03-27T13:04:09.007Z"}
+{"level":"info","message":"/api/user/info undefined OPTIONS","timestamp":"2020-03-27T13:04:31.486Z"}
+{"level":"info","message":"/api/user/info undefined GET","timestamp":"2020-03-27T13:04:31.502Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T13:04:31.503Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-03-27T13:04:31.526Z"}
+{"level":"info","message":"/api/user/login undefined OPTIONS","timestamp":"2020-03-27T13:04:32.968Z"}
+{"level":"info","message":"/api/user/login undefined POST","timestamp":"2020-03-27T13:04:32.993Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-03-27T13:04:32.994Z"}
+{"level":"info","message":"/api/user/info?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTQyNzMsImV4cCI6MTU4NTQwMDY3M30.qssitB14bQRlwRbBZnv1O71ngeN-dp0oKPHZia781X0 undefined OPTIONS","timestamp":"2020-03-27T13:04:33.136Z"}
+{"level":"info","message":"/api/user/info?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTQyNzMsImV4cCI6MTU4NTQwMDY3M30.qssitB14bQRlwRbBZnv1O71ngeN-dp0oKPHZia781X0 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTQyNzMsImV4cCI6MTU4NTQwMDY3M30.qssitB14bQRlwRbBZnv1O71ngeN-dp0oKPHZia781X0 GET","timestamp":"2020-03-27T13:04:33.141Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T13:04:33.141Z"}
+{"level":"info","message":"/api/user/info?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTQyNzMsImV4cCI6MTU4NTQwMDY3M30.qssitB14bQRlwRbBZnv1O71ngeN-dp0oKPHZia781X0 undefined OPTIONS","timestamp":"2020-03-27T13:04:46.345Z"}
+{"level":"info","message":"/api/user/info?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTQyNzMsImV4cCI6MTU4NTQwMDY3M30.qssitB14bQRlwRbBZnv1O71ngeN-dp0oKPHZia781X0 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTQyNzMsImV4cCI6MTU4NTQwMDY3M30.qssitB14bQRlwRbBZnv1O71ngeN-dp0oKPHZia781X0 GET","timestamp":"2020-03-27T13:04:46.349Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T13:04:46.350Z"}
+{"level":"info","message":"/api/loan/list?pageNo=1&pageSize=10&name= undefined OPTIONS","timestamp":"2020-03-27T13:05:05.061Z"}
+{"level":"info","message":"/api/loan/list?pageNo=1&pageSize=10&name= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTQyNzMsImV4cCI6MTU4NTQwMDY3M30.qssitB14bQRlwRbBZnv1O71ngeN-dp0oKPHZia781X0 GET","timestamp":"2020-03-27T13:05:05.066Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T13:05:05.066Z"}
+{"level":"info","message":"/api/approve/first/list?pageNo=1&pageSize=10&name= undefined OPTIONS","timestamp":"2020-03-27T13:05:07.630Z"}
+{"level":"info","message":"/api/approve/first/list?pageNo=1&pageSize=10&name= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTQyNzMsImV4cCI6MTU4NTQwMDY3M30.qssitB14bQRlwRbBZnv1O71ngeN-dp0oKPHZia781X0 GET","timestamp":"2020-03-27T13:05:07.633Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T13:05:07.634Z"}
+{"level":"info","message":"/api/contract/list?pageNo=1&pageSize=10&name= undefined OPTIONS","timestamp":"2020-03-27T13:05:21.712Z"}
+{"level":"info","message":"/api/contract/list?pageNo=1&pageSize=10&name= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTQyNzMsImV4cCI6MTU4NTQwMDY3M30.qssitB14bQRlwRbBZnv1O71ngeN-dp0oKPHZia781X0 GET","timestamp":"2020-03-27T13:05:21.717Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T13:05:21.718Z"}
+{"level":"info","message":"/api/user/list undefined OPTIONS","timestamp":"2020-03-27T13:05:23.815Z"}
+{"level":"info","message":"/api/user/list eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODUzMTQyNzMsImV4cCI6MTU4NTQwMDY3M30.qssitB14bQRlwRbBZnv1O71ngeN-dp0oKPHZia781X0 GET","timestamp":"2020-03-27T13:05:23.818Z"}
+{"level":"info","message":"enter...","timestamp":"2020-03-27T13:05:23.819Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-04-12T15:25:53.719Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-04-12T15:25:54.349Z"}
+{"level":"info","message":"/api/user/login undefined OPTIONS","timestamp":"2020-04-12T15:30:05.953Z"}
+{"level":"info","message":"/api/user/login null POST","timestamp":"2020-04-12T15:30:06.014Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-04-12T15:30:06.016Z"}
+{"level":"info","message":"/api/user/info undefined OPTIONS","timestamp":"2020-04-12T15:30:52.047Z"}
+{"level":"info","message":"/api/user/info undefined GET","timestamp":"2020-04-12T15:30:52.058Z"}
+{"level":"info","message":"enter...","timestamp":"2020-04-12T15:30:52.060Z"}
+{"level":"info","message":"token不存在或已过期...","timestamp":"2020-04-12T15:30:52.110Z"}
+{"level":"info","message":"/api/user/login undefined OPTIONS","timestamp":"2020-04-12T15:30:53.298Z"}
+{"level":"info","message":"/api/user/login undefined POST","timestamp":"2020-04-12T15:30:53.306Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-04-12T15:30:53.307Z"}
+{"level":"info","message":"/api/user/info?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODY3MDU0NTMsImV4cCI6MTU4Njc5MTg1M30.1TDGk1XySsL9f6ZkD-6Qp5F5T3FiSh7gfqXfwEeNF88 undefined OPTIONS","timestamp":"2020-04-12T15:30:53.341Z"}
+{"level":"info","message":"/api/user/info?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODY3MDU0NTMsImV4cCI6MTU4Njc5MTg1M30.1TDGk1XySsL9f6ZkD-6Qp5F5T3FiSh7gfqXfwEeNF88 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODY3MDU0NTMsImV4cCI6MTU4Njc5MTg1M30.1TDGk1XySsL9f6ZkD-6Qp5F5T3FiSh7gfqXfwEeNF88 GET","timestamp":"2020-04-12T15:30:53.352Z"}
+{"level":"info","message":"enter...","timestamp":"2020-04-12T15:30:53.354Z"}
+{"level":"info","message":"/api/loan/create undefined OPTIONS","timestamp":"2020-04-12T15:31:40.419Z"}
+{"level":"info","message":"/api/loan/create eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODY3MDU0NTMsImV4cCI6MTU4Njc5MTg1M30.1TDGk1XySsL9f6ZkD-6Qp5F5T3FiSh7gfqXfwEeNF88 POST","timestamp":"2020-04-12T15:31:40.427Z"}
+{"level":"info","message":"enter...","timestamp":"2020-04-12T15:31:40.428Z"}
+{"name":"qqq","identity_card":111,"birthday":"2020-04-15T16:00:00.000Z","sex":"man","marriage":"married","education":"college","address1":"111","address2":"111","phone":111,"mobile_phone":111,"company":"122","trade":"finance","position":"12","address3":"qweqw","company_type":"asdasd","company_email":"qweqwe","company_phone":"aszd","income":"22","contact":"34","contact_name":"1","contact_phone":1,"contact2":"sad","contact2_name":"1","contact2_phone":"q","ontact2_dep":"","contact2_pos":"q","remark":"","contact2_dep":"11","level":"info","message":"About to create loan ","timestamp":"2020-04-12T15:31:40.434Z"}
+{"level":"info","message":"/api/loan/list?pageNo=1&pageSize=10&name= undefined OPTIONS","timestamp":"2020-04-12T15:31:40.982Z"}
+{"level":"info","message":"/api/loan/list?pageNo=1&pageSize=10&name= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODY3MDU0NTMsImV4cCI6MTU4Njc5MTg1M30.1TDGk1XySsL9f6ZkD-6Qp5F5T3FiSh7gfqXfwEeNF88 GET","timestamp":"2020-04-12T15:31:40.990Z"}
+{"level":"info","message":"enter...","timestamp":"2020-04-12T15:31:40.992Z"}
+{"level":"info","message":"/api/loan/list?pageNo=1&pageSize=10&name= undefined OPTIONS","timestamp":"2020-04-12T15:31:52.315Z"}
+{"level":"info","message":"/api/loan/list?pageNo=1&pageSize=10&name= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODY3MDU0NTMsImV4cCI6MTU4Njc5MTg1M30.1TDGk1XySsL9f6ZkD-6Qp5F5T3FiSh7gfqXfwEeNF88 GET","timestamp":"2020-04-12T15:31:52.324Z"}
+{"level":"info","message":"enter...","timestamp":"2020-04-12T15:31:52.325Z"}
+{"level":"info","message":"/api/car/create eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOnRydWUsImlkIjoxLCJhY2NvdW50IjoiYWRtaW4iLCJpYXQiOjE1ODY3MDIzMDksImV4cCI6MTU4Njc4ODcwOX0.07G0OJsnPT0gM59tWaklprRZqGn38P8hxKQ9jF2YQ04 POST","timestamp":"2020-04-12T15:34:21.078Z"}
+{"level":"info","message":"enter...","timestamp":"2020-04-12T15:34:21.079Z"}
+{"level":"info","message":"Connected to the db...","timestamp":"2020-06-01T15:18:56.470Z"}
+{"level":"info","message":"Application started on port  5003","timestamp":"2020-06-01T15:18:56.954Z"}
+{"level":"info","message":"/api/user/login undefined POST","timestamp":"2020-06-01T15:19:13.392Z"}
+{"level":"info","message":"============{\"account\":\"admin\",\"password\":\"admin@123\"}","timestamp":"2020-06-01T15:19:13.393Z"}
